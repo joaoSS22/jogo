@@ -1,5 +1,5 @@
 let listaDeNumeros = [];
-let multiplicadorNumeroSecreto = 4;
+let multiplicadorNumeroSecreto = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 let mensagemInicial = `Escolha um número de 1 a ${multiplicadorNumeroSecreto}`;
