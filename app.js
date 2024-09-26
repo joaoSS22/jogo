@@ -7,7 +7,7 @@ let mensagemInicial = `Escolha um número de 1 a ${multiplicadorNumeroSecreto}`;
     console.log (tentativas);
 
         function exibirMensagemInicial() {
-            exibirTextoNaTela('h1' ,'Bem vindo ao jogo do número sécreto');
+            exibirTextoNaTela('h1' ,'Bem vindo ao jogo do número sécreto UwU');
             exibirTextoNaTela('p' , mensagemInicial);
         }
 
